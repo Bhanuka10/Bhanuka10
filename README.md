@@ -1,18 +1,101 @@
-# 💫 About Me:
-im a Full-Stack Developer and  AI & ML Enthusiast
+<!-- Profile Header -->
+![Hi I'm Bhanuka](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Bhanuka%20Bandaranayake&fontSize=60&color=0:1c92d2,100:ff4e50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
 
+<!-- Short Intro -->
+<h3 align="center">
+  Full-Stack Developer | AI & ML Enthusiast | Passionate about Building Smart, Scalable Systems 🚀
+</h3>
 
-## 🌐 Socials:
-[![Facebook]((https://web.facebook.com/profile.php?id=61575244409434))](https://facebook.com/Bhanuka Bandaranayake) [![LinkedIn](https://www.linkedin.com/in/bhanuka-bandaranayake-0a1968302/)]
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Bhanuka10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhanuka10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuka10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bhanuka10&label=Profile%20Views&color=1c92d2&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Bhanuka10?label=Followers&style=social" alt="GitHub Followers" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhanuka10&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+- 🔭 Currently working on **Community Projects** and **AI Systems**  
+- 🌱 Learning **Laravel**, **MERN Stack**, **Python**, and **Java**  
+- 💬 Ask me about **AI**, **Web Development**, **Machine Learning**, and **Backend Systems**  
+- 🎯 Goal: Build meaningful tech that bridges **people and innovation**  
+- ⚡ Fun fact: I enjoy mentoring others and exploring futuristic tech trends 🌌  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/bhanuka-bandaranayake-0a1968302/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://facebook.com/Bhanuka Bandaranayake" target="_blank">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" alt="Facebook"/>
+  </a>
+  <a href="mailto:bhanuka.email@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,php,laravel,mysql,mongodb,aws,figma,canva,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bhanuka10&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanuka10&layout=compact&theme=tokyonight&hide_border=false&langs_count=10" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 🧩 Contribution Highlights
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Bhanuka10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions per Repo" />
+</p>
+
+---
+
+### 🔥 Streak & Activity Graph
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bhanuka10&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhanuka10&theme=tokyo-night&area=true&hide_border=false&custom_title=Bhanuka's%20Contribution%20Graph" alt="Contribution Graph"/>
+</p>
+
+---
+
+### 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bhanuka10/Bhanuka10/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 💬 Quote
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+</p>
+
+---
+
+### 🧠 Let’s Collaborate
+<p align="center">
+  <b>🚀 Open to collaborations on AI, Web Development, and Innovative Community Projects!</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <b>Thanks for visiting!</b> Keep learning, keep building, keep inspiring ✨
+</p>
