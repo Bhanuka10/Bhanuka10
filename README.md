@@ -1,9 +1,13 @@
 <!-- Profile Header -->
-![Hi I'm Bhanuka](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Bhanuka%20Bandaranayake&fontSize=60&color=0:1c92d2,100:ff4e50&fontColor=ffffff&animation=fadeIn&fontAlignY=40)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Bhanuka%20Bandaranayake&fontSize=50&fontAlign=50&fontAlignY=40&color=0:1c92d2,100:ff4e50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20AI%20&%20ML%20Enthusiast%20🚀&descAlignY=70" alt="Header"/>
+</p>
+
+---
 
 <!-- Short Intro -->
 <h3 align="center">
-  Full-Stack Developer | AI & ML Enthusiast | Passionate about Building Smart, Scalable Systems 🚀
+  🌍 Building Smart, Scalable, and AI-Powered Systems for the Future
 </h3>
 
 <!-- Profile Views -->
@@ -15,11 +19,13 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Community Projects** and **AI Systems**  
-- 🌱 Learning **Laravel**, **MERN Stack**, **Python**, and **Java**  
-- 💬 Ask me about **AI**, **Web Development**, **Machine Learning**, and **Backend Systems**  
-- 🎯 Goal: Build meaningful tech that bridges **people and innovation**  
-- ⚡ Fun fact: I enjoy mentoring others and exploring futuristic tech trends 🌌  
+<p align="center">
+  🔭 Currently working on <b>Community Projects</b> and <b>AI Systems</b> <br/>
+  🌱 Learning <b>Laravel</b>, <b>MERN Stack</b>, <b>Python</b>, and <b>Java</b> <br/>
+  💬 Ask me about <b>AI</b>, <b>Web Development</b>, <b>Machine Learning</b>, and <b>Backend Systems</b> <br/>
+  🎯 Goal: To build meaningful tech that connects <b>people and innovation</b> <br/>
+  ⚡ Fun Fact: I love mentoring and exploring futuristic technologies 🌌
+</p>
 
 ---
 
@@ -43,7 +49,7 @@
 
 ### 🧰 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,php,laravel,mysql,mongodb,aws,figma,canva,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,php,laravel,mysql,mongodb,aws,figma,canva,git,github" alt="Tech Stack" />
 </p>
 
 ---
@@ -61,6 +67,11 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=Bhanuka10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributions per Repo" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhanuka10&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bhanuka10&theme=tokyonight" height="180" />
+</p>
+
 ---
 
 ### 🔥 Streak & Activity Graph
@@ -76,7 +87,11 @@
 
 ### 🐍 Contribution Snake Animation
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bhanuka10/Bhanuka10/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bhanuka10/Bhanuka10/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bhanuka10/Bhanuka10/output/github-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Bhanuka10/Bhanuka10/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
